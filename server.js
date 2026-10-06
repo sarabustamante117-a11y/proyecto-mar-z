@@ -31,7 +31,7 @@ function nuevoId() {
 }
 
 function crearDatosIniciales() {
-  const clave = hashClave('demo1234');
+  const clave = hashClave('1234');
   const ahora = new Date().toISOString();
   const db = {
     usuarios: [

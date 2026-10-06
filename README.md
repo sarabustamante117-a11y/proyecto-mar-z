@@ -19,7 +19,7 @@ No hace falta `npm install`. El archivo `data/db.json` se crea solo la primera v
 para volver a los datos de ejemplo, bórralo y reinicia el servidor.
 
 ## Cuentas de demostración
-Contraseña de todas: `demo1234`
+Contraseña de todas: `1234`
 
 | Rol | Correo |
 |---|---|
