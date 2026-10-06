@@ -1,0 +1,11 @@
+{
+  "name": "mesa-solicitudes",
+  "version": "1.0.0",
+  "description": "Sistema interno para crear y dar seguimiento a solicitudes de ayuda",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": { "node": ">=18" },
+  "license": "ISC"
+}
